@@ -1,0 +1,12 @@
+{
+  "name": "learn-mdn",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "http-server --silent --port 3000 src"
+  },
+  "author": "Roumcha",
+  "dependencies": {
+    "http-server": "^14.1.1",
+    "prettier": "^3.0.0"
+  }
+}
